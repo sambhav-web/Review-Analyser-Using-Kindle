@@ -3,4 +3,3 @@ streamlit
 nltk
 pandas
 dill
-re
